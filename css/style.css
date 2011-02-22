@@ -1,0 +1,25 @@
+section, article, aside, footer, nav {
+    display: block;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+header, section#content {
+    margin: 0 auto;
+    min-width: 300px;
+    width: 50%;
+}
+
+header {
+    text-align: center;
+}
+
+aside#site_links {
+    float: left;
+    width: 25%;
+}
