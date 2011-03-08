@@ -11,7 +11,7 @@ body {
 
 header, section#content {
     margin: 0 auto;
-    min-width: 300px;
+    min-width: 528px;
     width: 50%;
 }
 
@@ -19,7 +19,30 @@ header {
     text-align: center;
 }
 
-aside#site_links {
-    float: left;
-    width: 25%;
+nav#site_links {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+nav#site_links ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+}
+
+nav#site_links ul li {
+    display: inline-block;
+    font-family: "Courier New", "Courier", monospace;
+    font-size: 140%;
+    font-weight: bold;
+    padding: 0 0.5em;
+    text-transform: lowercase;
+}
+
+a:link, a:visited {
+    color: white;
+}
+
+a:link img, a:visited img {
+    border: 0;
 }

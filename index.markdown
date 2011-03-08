@@ -2,6 +2,9 @@
 layout: default
 ---
 
-Join us on Tuesdays and Fridays from 5-7pm at the sundial on the
-McKeldin Mall or in the Thurgood Marshall room in the Stamp if it's
-cold or rainy.
+<!-- Workaround for Maruku bug? -->
+<span style="display:none;">&nbsp;</span>
+
+__When__: Tuesdays and Fridays, 5&ndash;7PM.<br />
+__Where__: Thurgood Marshall room in Stamp (or the sundial on the McKeldin mall in good weather).
+
