@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Juggling @ UMD
 ---
 
 <!-- Workaround for Maruku bug? -->
