@@ -60,3 +60,13 @@ h1 {
 h2 {
     font-size: 160%;
 }
+
+h3 {
+    font-size: 120%;
+}
+
+/* For nested lists in the 2011 Congress schedule. */
+/* Kind of an ugly hack, no? */
+li > p + ul {
+    margin-top: -0.5em;
+}
