@@ -16,3 +16,32 @@ travelers. If you can help out, please contact
 
 If you'd like to offer your support as a vendor, you can get more
 information [here](vendors.pdf).
+
+## Rough Schedule
+
+### Friday
+
+ * __6PM--midnight__: open juggling *(in the Cole Field House)*
+
+ * Unicycle hockey *(in the Cole Field House)*
+
+### Saturday
+
+ * __9AM--midnight__: open juggling *(in the Cole Field House)*
+ * __5PM--7:30PM__: performance show *(in the Hoff Theatre in the
+   Stamp Student Union)*
+ * __8PM--10PM__: fire juggling *(outside the Hornbake Library)*
+
+
+ * __Skills and workshops__ *(in the Cole Field House)*
+   * Juggling dojo workshop *(90 minutes)*
+   * Passing
+   * 3-ball tricks
+   * Diabolo
+   * Devil sticks
+   * Poi
+   * Beginner lessons *(every other hour)*
+
+### Sunday
+
+ * __9AM--2PM__: open juggling *(in the Cole Field House)*
