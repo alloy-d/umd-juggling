@@ -20,7 +20,7 @@ header {
 }
 
 nav#site_links {
-    margin-bottom: 2em;
+    margin-bottom: 4em;
     text-align: center;
 }
 
@@ -45,4 +45,18 @@ a:link, a:visited {
 
 a:link img, a:visited img {
     border: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Courier New", "Courier", monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 160%;
 }
