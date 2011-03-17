@@ -30,6 +30,7 @@ title: Links - Juggling @ UMD
  * [International Jugglers' Association](http://juggle.org/)
  * [World Juggling Federation](http://thewjf.com/)
  * [Internet Juggling Database](http://jugglingdb.com/)
+ * [JuggleWiki](http://jugglewiki.org/)
  * [Juggling.TV](http://juggling.tv/vaults/index.php)
  * [Flying Karamazov Brothers](http://www.fkb.com/)
  * [Matt Wise](http://matt-wise.com/juggling/)
