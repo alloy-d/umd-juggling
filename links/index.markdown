@@ -8,7 +8,7 @@ title: Links - Juggling @ UMD
 ## Equipment vendors
 
  * [The Bag Lady](http://baglady.procis.net/)
- * [Dubé](http://www.dube.com/)
+ * [Dub&eacute;](http://www.dube.com/)
  * [Flames 'N Games](http://flamesngames.co.uk/)
  * [Flying Clipper](http://www.flyingclipper.com/)
  * [Henrys Professional Juggling Equipment](http://www.henrys-online.de/Webshop/en-us/enter.html)
