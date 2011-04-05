@@ -45,3 +45,15 @@ information [here](vendors.pdf).
 ### Sunday
 
  * __9AM--2PM__: open juggling *(in the Cole Field House)*
+
+
+ * __Games__
+   * Obstacle course for time
+   * Juggling quarters (winner cleans up)
+   * Juggling soap
+   * Club catching
+   * Speed passing
+   * Distant passing
+   * Three-person club pass-around races
+   * Diabolo high throw (from a five-gallon bucket)
+   * 4- and 5-ball endurance
