@@ -57,3 +57,11 @@ information [here](vendors.pdf).
    * Three-person club pass-around races
    * Diabolo high throw (from a five-gallon bucket)
    * 4- and 5-ball endurance
+
+## Shirts
+
+Shirts will be $15 for one or $25 for two.
+
+[<img src="shirts/front-blue-small.jpg" />](shirts/front-blue.jpg)
+[<img src="shirts/back-blue-small.jpg" />](shirts/back-blue.jpg)
+[<img src="shirts/front-brown-small.jpg" />](shirts/front-brown.jpg)
