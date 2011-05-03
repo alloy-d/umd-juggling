@@ -21,7 +21,7 @@ information [here](vendors.pdf).
 
 ### Friday
 
- * __6PM--midnight__: open juggling *(in the Cole Field House)*
+ * __6:30PM--midnight__: open juggling *(in the Cole Field House)*
 
  * Unicycle hockey *(in the Cole Field House)*
 
@@ -34,12 +34,14 @@ information [here](vendors.pdf).
 
 
  * __Skills and workshops__ *(in the Cole Field House)*
-   * Juggling dojo workshop *(90 minutes)*
+   * Juggling dojo workshop *(90 minutes; you will need to sign up for this at Congress in advance)*
+   * "3-ball tricks no one does!" workshop with Adam Van Houten
    * Passing
    * 3-ball tricks
    * Diabolo
    * Devil sticks
    * Poi
+   * Uniball
    * Beginner lessons *(every other hour)*
 
 ### Sunday
@@ -48,6 +50,7 @@ information [here](vendors.pdf).
 
 
  * __Games__
+   * Unicycle hockey
    * Obstacle course for time
    * Juggling quarters (winner cleans up)
    * Juggling soap
