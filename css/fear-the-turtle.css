@@ -1,0 +1,99 @@
+@import url('http://fonts.googleapis.com/css?family=Terminal+Dosis:500');
+
+body {
+  font-family: "Terminal Dosis", sans-serif;
+  font-size: 100%;
+  padding-top: 6%;
+  padding-bottom: 5%;
+}
+
+p {
+  text-align: center;
+}
+
+#hey {
+  color: crimson;
+  display: block;
+  line-height: 0.8;
+  text-transform: uppercase;
+}
+
+#fear-the-turtle {
+  color: black;
+  display: block;
+  text-transform: uppercase;
+}
+
+#club {
+  color: gray;
+  display: block;
+  letter-spacing: 0.22em;
+  line-height: 2.2;
+  position: relative;
+  left: 0.20em;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 1200px) {
+  #hey {
+    font-size: 190px;
+  }
+  #fear-the-turtle {
+    font-size: 142px;
+  }
+  #club {
+    font-size: 86.4px;
+  }
+}
+
+@media screen and (max-width: 700px) and (orientation: landscape) {
+  #hey {
+    font-size: 96.5px;
+  }
+  #fear-the-turtle {
+    font-size: 73px;
+  }
+  #club {
+    font-size: 44.5px;
+  }
+}
+
+/* iPhone 4 in landscape mode */
+@media screen
+and (max-width: 980px)
+and (orientation: landscape)
+and (-webkit-min-device-pixel-ratio: 2) {
+  #hey {
+    font-size: 161px;
+  }
+  #fear-the-turtle {
+    font-size: 122px;
+  }
+  #club {
+    font-size: 74px;
+  }
+}
+
+/* iPhone 4 in portrait mode */
+@media screen
+and (max-width: 640px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 2) {
+  #hey {
+    font-size: 161px;
+  }
+  #gravity {
+    display: block;
+    font-size: 140px;
+  }
+  #fear-the-turtle {
+    font-size: 122px;
+  }
+  #fear, #the, #turtle {
+    display: block;
+  }
+  #club {
+    display: none;
+    font-size: 74px;
+  }
+}
