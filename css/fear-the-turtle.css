@@ -1,0 +1,89 @@
+body {
+  font-family: "Terminal Dosis", sans-serif;
+  font-size: 100%;
+  padding-top: 6%;
+  padding-bottom: 5%;
+}
+p {
+  text-align: center;
+}
+#hey {
+  color: #DC143C;
+  display: block;
+  line-height: 0.8;
+  text-transform: uppercase;
+}
+#fear-the-turtle {
+  color: black;
+  display: block;
+  text-transform: uppercase;
+}
+#club {
+  color: gray;
+  display: block;
+  letter-spacing: 0.22em;
+  line-height: 2.2;
+  position: relative;
+  left: 0.18em;
+  text-transform: uppercase;
+}
+@media screen and (min-width: 1200px) {
+  #hey {
+    font-size: 190px;
+  }
+  #fear-the-turtle {
+    font-size: 142px;
+  }
+  #club {
+    font-size: 86.4px;
+  }
+}
+@media screen and (max-width: 700px) and (orientation: landscape) {
+  #hey {
+    font-size: 96.5px;
+  }
+  #fear-the-turtle {
+    font-size: 72.12105263157895px;
+  }
+  #club {
+    font-size: 43.8821052631579px;
+  }
+}
+/* iPhone 4 in landscape mode */
+@media screen
+and (max-width: 980px)
+and (orientation: landscape)
+and (-webkit-min-device-pixel-ratio: 2) {
+  #hey {
+    font-size: 161px;
+  }
+  #fear-the-turtle {
+    font-size: 120.32631578947368px;
+  }
+  #club {
+    font-size: 73.21263157894737px;
+  }
+}
+/* iPhone 4 in portrait mode */
+@media screen
+and (max-width: 640px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 2) {
+  #hey {
+    font-size: 161px;
+  }
+  #gravity {
+    display: block;
+    font-size: 140px;
+  }
+  #fear-the-turtle {
+    font-size: 122px;
+  }
+  #fear, #the, #turtle {
+    display: block;
+  }
+  #club {
+    display: none;
+    font-size: 74px;
+  }
+}
