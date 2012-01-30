@@ -10,5 +10,5 @@ __Where__: The sundial on the McKeldin mall (or the Thurgood Marshall room in St
 
 ## News
 
-Our 19th annual Congress of Jugglers will be held May 6--8, 2011!<br />
-For more information, click [here](congress/2011/).
+Our 20th annual Congress of Jugglers will be held March 9--11, 2012!<br
+/> For more information, click [here](congress/2012/).
