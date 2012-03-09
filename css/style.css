@@ -70,3 +70,14 @@ h3 {
 li > p + ul {
     margin-top: -0.5em;
 }
+
+table.schedule td {
+    width: 30ex;
+}
+table.schedule td + td {
+    padding-left: 1em;
+}
+table.schedule td:first-child {
+    text-align: right;
+    width: 10ex;
+}

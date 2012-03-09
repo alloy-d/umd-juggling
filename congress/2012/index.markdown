@@ -21,8 +21,22 @@ information [here](vendors.pdf).
 
 Open juggling will be held in the Ritchie Coliseum all three days:
 
- * Friday, March 9: 6--11PM
- * Saturday, March 10: 10AM--11PM
- * Sunday, March 11: 10AM--2PM
+<table class="schedule">
+<tr><td>Friday</td><td>6PM&ndash;12AM</td></tr>
+<tr><td>Saturday</td><td>10AM&ndash;12AM</td></tr>
+<tr><td>Sunday</td><td>10AM&ndash;2PM</td></tr>
+</table>
 
-Check back as Congress approaches for more schedule details!
+In addition, we have the following planned for Saturday:
+
+<table class="schedule">
+<tr><td>11:00AM</td><td>Bounce juggling workshop</td></tr>
+<tr><td>11:30AM</td><td>5-ball endurance</td></tr>
+<tr><td>12:00PM</td><td>Simon says</td></tr>
+<tr><td>12:30PM</td><td>Uniball</td></tr>
+<tr><td>1:30PM</td><td>Diabolo toss</td></tr>
+<tr><td>2:00PM</td><td>Quarter juggling</td></tr>
+<tr><td>2:30PM</td><td>Club catching</td></tr>
+<tr><td>3:00PM</td><td>Passing race</td></tr>
+<tr><td>4:00PM</td><td>Combat</td></tr>
+</table>
