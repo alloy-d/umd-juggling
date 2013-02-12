@@ -6,7 +6,8 @@ title: Juggling @ UMD
 ## Basics
 
 __When__: Tuesdays and Fridays, 5&ndash;7PM.<br />
-__Where__: The sundial on the McKeldin mall (or the Thurgood Marshall room in Stamp in bad weather).
+__Where__: The sundial on the McKeldin mall, or in the Armory in bad
+weather---room 0117 on Tuesdays, 0116 on Fridays.
 
 ## News
 
