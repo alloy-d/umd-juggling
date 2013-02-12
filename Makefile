@@ -1,4 +1,4 @@
 .PHONY: serve
 
 serve:
-	jekyll --auto --server --base-url /juggling
+	bundle exec jekyll --auto --server --base-url /juggling
